@@ -1,8 +1,14 @@
-![Pratham's GitHub Banner](https://images.app.goo.gl/U54e2pxfVZXekZK57)
+<img align="right" alt="code" width="400" src="https://giphy.com/gifs/tank-qr-code-art-vmQAsNXEgvItJxpgL4">
 
 
 # 💫 About Me:
-i am currently working on a intelligreen, a green initiative 
+-🌱 I’m currently working on **Plant Care program, a green initiative**
+
+
+- 💬 Ask me about **machine learing and emerging AI**
+
+- ⚡ Fun fact **Aliens Exist**
+
 
 
 ## 🌐 Socials:
