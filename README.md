@@ -1,4 +1,5 @@
-<img align="right" alt="code" width="400" src="https://giphy.com/gifs/tank-qr-code-art-vmQAsNXEgvItJxpgL4">
+<img align="right" alt="code" width="400" src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif
+">
 
 
 # 💫 About Me:
