@@ -1,5 +1,5 @@
-<img align="right" alt="code" width="400" src="https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif
-">
+![ GitHub Banner](https://media3.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif
+)
 
 
 # 💫 About Me:
